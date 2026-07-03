@@ -1,0 +1,26 @@
+div
+{
+   text-align:center;
+   background-color:lightblue;
+}
+h1
+{
+    color:red;
+    background-color:yellow;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+
+}
+h2
+{
+    color:blue;
+    background-color:lightgray;
+    font-family:'Arial', sans-serif;
+   
+}
+p
+{
+    color:black;
+   
+    font-family:'Verdana', sans-serif;
+}
